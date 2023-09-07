@@ -30,10 +30,11 @@ input[type="text"] {
 
 button {
     padding: 5px 10px;
-    background-color: #333;
+    background-color: #0b13f5;
     color: #fff;
     border: none;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 button:hover {
@@ -41,7 +42,7 @@ button:hover {
 }
 
 .task-list {
-    background-color: #fff;
+    background-color: #62bae3;
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 20px;
@@ -53,7 +54,7 @@ button:hover {
     align-items: center;
     margin-bottom: 10px;
     padding: 5px 10px;
-    background-color: #f2f2f2;
+    background-color: #f5b2b2;
     border: 1px solid #ddd;
     border-radius: 5px;
 }
