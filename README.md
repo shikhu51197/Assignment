@@ -12,10 +12,12 @@ Temperature Converter Frontend of  tempreact deployed link - https://assignment-
 Crypto Purchase Interface of cryptoreact  deployed link - https://assignment-e4ff.vercel.app/
 ------> cryptohtmlcssjs  - https://64fa38e5ed36585a09fcf0b5--strong-alfajores-f7076d.netlify.app/
 
-## 🔗 Collaborators Profile Links✨
+## 🔗 Profile Links✨
 
 
 
-| Collaborators | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    |
+| Collaborator | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    |
+| Resume                                                                                                                                    |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Shikha Gupta  (Member 1)| [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) | 
+--------------------------------------------------------------------------------------------------------------------------------------- |
+| Shikha Gupta  (Member 1)| [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) | [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) | 
